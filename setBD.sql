@@ -1,0 +1,9 @@
+\copy auteur from 'CSV/auteurs.csv' WITH (FORMAT CSV, HEADER);
+\copy editeur from 'CSV/editeurs.csv' WITH (FORMAT CSV, HEADER);
+\copy manga from 'CSV/mangas.csv' WITH (FORMAT CSV, HEADER);
+\copy prix from 'CSV/prix.csv' WITH (FORMAT CSV, HEADER);
+\copy client from 'CSV/clients.csv' WITH (FORMAT CSV, HEADER);
+\copy panier from 'CSV/paniers.csv' WITH (FORMAT CSV, HEADER);
+\copy prodPanier from 'CSV/prodPanier.csv' WITH (FORMAT CSV, HEADER);
+\copy demandeRemboursement from 'CSV/demandeRemboursement.csv' WITH (FORMAT CSV, HEADER);
+\copy avis from 'CSV/avis.csv' WITH (FORMAT CSV, HEADER);
