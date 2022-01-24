@@ -17,14 +17,6 @@ Au niveau des dossiers sources, ils sont séparés en 3:
 * Nous avons un fichier `tables.sql` qui est un script sql qui crée les différentes tables
 * Nous avons un fichier `setBD.sql` qui est un script sql qui remplis les tables grâce au dossier CSV
 
-Dans le cas où ce rapport ne répondrait pas à une de vos questions, n'hésitez pas à contacter l'un d'entre nous (Voir coordonnées ci-dessous).
-
-## Etudiants
-| Prénom | NOM | Numéro étudiant | Pseudo Git | Mail | Discord |
-| --- | --- | --- | --- | --- | --- |
-| Fabio | DE SOUSA LIMA | 71802806 | @desousal | fabio.jorge2000@hotmail.fr | Asuos#2448 |
-| Pierre | AMORIM | 71800495 | @amorim | amorimpierre114@gmail.com | Miro#1721 |
-
 ## Création & Insertion
 
 ### Création des tables
